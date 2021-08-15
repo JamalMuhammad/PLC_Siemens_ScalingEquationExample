@@ -1,2 +1,0 @@
-# PLC_Siemens_ScalingEquationExample
-PLC_Siemens Scaling Equation Example
