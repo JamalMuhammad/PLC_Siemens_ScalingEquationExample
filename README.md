@@ -1,6 +1,6 @@
 # PLC_Siemens_ScalingEquationExample
 PLC_Siemens Scaling Equation Example. 
-This is an example program in ST simply showing a use cae of scaling equation. There are in total 4 valves in the system. Valve 1,2 an 3 are of Type A001 and valve 3 is of type A002. 
+This is an example program in ST simply showing a use cae of scaling equation. There are in total 4 valves in the system. Valve 1,2 an 3 are of Type A001 and valve 4 is of type A002. 
 There is an HMI developed with simulation functions to test the code. Run the HMI in simulation mode, then run the PLC program in simulation mode. On the HMI screen
 there is a dropdown list which enables user to select a valve. Select one valve out of 4 within the dropdown list. Then move the curson of the fields: "PV" and "Temperature". 
 Observe the graph which is showing scaling function output. Check if the following criteria's met or not.  
